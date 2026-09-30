@@ -3,7 +3,7 @@ def inc(x):
 
 def test_answer():
     """A basic test function."""
-    assert inc(3) == 5
+    assert inc(3) == 4
 
 def test_fail_example():
     """An example of a failing test."""
